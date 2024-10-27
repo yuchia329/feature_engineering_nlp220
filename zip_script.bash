@@ -1,0 +1,1 @@
+zip -r feature_engineering_nlp220.zip * -x ".DS_Store/*" -x "**__pycache__/*" -x "aclImdb/*" -x "data/*" -x "graph/*" -x "GaussianNBScratch.py" -x "optimizer.py"
